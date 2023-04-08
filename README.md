@@ -18,7 +18,7 @@ The script generates a unique comment for each employee by **concatenating the f
 
 To use this script, follow these steps:
 
-1.  Create a MySQL database with the `employee` and `phone` tables as described above.
+1.  Create a MySQL database with the `employee` and `phone` tables.
 2.  Update the `$inputFile`, `$dsn`, `$username`, and `$password` variables in the script to match your setup.
 3.  Run the script using the `perl` command: `perl script.pl`
 
